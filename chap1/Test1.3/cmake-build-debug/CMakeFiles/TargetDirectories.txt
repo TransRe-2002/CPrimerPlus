@@ -1,0 +1,3 @@
+/home/transen5/CLionProjects/CPrimerPlus/chap1/Test1.3/cmake-build-debug/CMakeFiles/CPrimerPlus.dir
+/home/transen5/CLionProjects/CPrimerPlus/chap1/Test1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/transen5/CLionProjects/CPrimerPlus/chap1/Test1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

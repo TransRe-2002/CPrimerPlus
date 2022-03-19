@@ -1,0 +1,1 @@
+add_executable(CPrimerPlus first.c)
